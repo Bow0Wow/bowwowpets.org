@@ -594,7 +594,7 @@ h5 {
 .cat,
 .dog,
 .hamster {
-  position: absolute;
+  position: relative;
   width: 15%;
   border: groove 7px aquamarine;
   border-radius: 50%;
