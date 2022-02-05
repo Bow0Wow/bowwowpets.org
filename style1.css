@@ -16,7 +16,7 @@ html {
 }
 
 .display .container {
-  display: block;
+  display: flex;
 }
 
 .hamburger-menu {
